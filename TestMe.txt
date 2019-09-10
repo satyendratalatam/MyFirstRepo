@@ -1,6 +1,2 @@
 sasa
-<<<<<<< HEAD
 2
-=======
-1
->>>>>>> 73df1ba5b1e0c9da81ba2d1350e4c4dcafb54a09
